@@ -4,6 +4,9 @@ This project utilizes Python's pandas library to predict the temperature in Durr
 
 Additionally, it display a chart showing the temperatures for the last three Junes.
 
+## My project on google colab
+https://colab.research.google.com/drive/1uf4FyJBEaHel1SvOMOo9nvDb-cniOe56?usp=sharing
+
 ## Dataset
 
 The historical temperature data is sourced from 01-01-2021, due to the free data access limit
